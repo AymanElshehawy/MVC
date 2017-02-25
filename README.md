@@ -1,2 +1,2 @@
 # MVC
-This is custom MVC i make it.
+This is custom MVC i made it myself.
