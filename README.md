@@ -6,7 +6,7 @@
 
 -you can (add, edit,delete,show) all employee details. 
 
--=====Steps======
+- =====Steps======
 
 -first step modify MVC/app/config/config.php
 
@@ -29,5 +29,4 @@ Then go to the below link:
         index => refer to function inside the controller
 
 made by Ayman Elshehawy:
-
     http://elshehawy.softex-it.com/
