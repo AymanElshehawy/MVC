@@ -16,8 +16,11 @@
     . define('DB_PASS', '')
     . define('PUBLIC_PATH', 'http://localhost/MVC/public/')
 
-1- create DB name TestDB
-2- create table employee (id, name, email, image)
+
+    1. create DB name TestDB.
+    2. create table employee (id, name, email, image).
+    
+    
 Then go to the below link
 http://localhost/MVC/public/home/index
 
