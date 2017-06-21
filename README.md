@@ -21,11 +21,13 @@
     2. create table employee (id, name, email, image).
     
     
-Then go to the below link
-http://localhost/MVC/public/home/index
+Then go to the below link:
+        http://localhost/MVC/public/home/index
 
-home => refer to controller
+home => refer to controller.
+
 index => refer to function inside the controller
 
-made by Ayman Elshehawy
-http://elshehawy.softex-it.com/
+made by Ayman Elshehawy:
+
+    http://elshehawy.softex-it.com/
