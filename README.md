@@ -24,9 +24,9 @@
 Then go to the below link:
         http://localhost/MVC/public/home/index
 
-home => refer to controller.
+        home => refer to controller.
 
-index => refer to function inside the controller
+        index => refer to function inside the controller
 
 made by Ayman Elshehawy:
 
